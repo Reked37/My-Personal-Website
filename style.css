@@ -10,3 +10,10 @@ h1+p{
     color:aquamarine;
     text-align: center;
 }
+h2{
+    text-underline-position: under;
+}
+h3{
+    font-size: small;
+    margin: left;
+}
