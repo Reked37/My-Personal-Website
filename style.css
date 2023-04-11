@@ -1,7 +1,12 @@
 body{
     background: teal;
 }
-h1{
+h1+p{
     color: red;
+    text-align: center;
+    text-underline-position: under;
+}
+#Derek{
+    color:aquamarine;
     text-align: center;
 }
